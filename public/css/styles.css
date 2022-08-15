@@ -143,7 +143,7 @@ article i {
   border-radius: 50%;
   transition: all 200ms;
 }
-article i:hover {
+article:hover i{
   transform: rotate(-90deg);
 }
 .list-footer {
