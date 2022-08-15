@@ -164,7 +164,6 @@ footer {
   justify-content: center;
   padding: 10px;
   position: absolute;
-  bottom: 0;
 }
 .footer-section {
   display: flex;
